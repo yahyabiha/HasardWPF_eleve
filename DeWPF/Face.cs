@@ -1,6 +1,6 @@
-﻿
-namespace DeWPF
+﻿namespace DeWPF
 {
+    // Une face d'un objet de hasard
     public class Face : IFace
     {
         public int Valeur { get; }

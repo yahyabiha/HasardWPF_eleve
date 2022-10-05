@@ -1,9 +1,4 @@
-﻿
-/*********************************************
- * VOUS NE DEVEZ PAS MODIFIER CE FICHIER !!! *
- * *******************************************/
-
-namespace DeWPF
+﻿namespace DeWPF
 {
     // Une pièce de monnaie à deux faces
     internal class Piece : ObjetHasard

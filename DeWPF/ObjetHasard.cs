@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DeWPF
 {
+    // Un objet de hasard
     public abstract class ObjetHasard : IObjetHasard
     {
         protected static readonly Random rnd = new Random();

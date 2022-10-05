@@ -1,10 +1,6 @@
-﻿
-/*********************************************
- * VOUS NE DEVEZ PAS MODIFIER CE FICHIER !!! *
- * *******************************************/
-
-namespace DeWPF
+﻿namespace DeWPF
 {
+    // Un lancer d'un objet de hasard
     public class Lancer
     {
         public ObjetHasard Objet { get; }

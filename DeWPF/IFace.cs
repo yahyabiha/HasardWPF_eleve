@@ -1,11 +1,6 @@
-﻿using System.Windows.Controls;
-
-/*********************************************
- * VOUS NE DEVEZ PAS MODIFIER CE FICHIER !!! *
- * *******************************************/
-
-namespace DeWPF
+﻿namespace DeWPF
 {
+    // Une face d'un objet de hasard
     public interface IFace
     {
         // Une face a une valeur

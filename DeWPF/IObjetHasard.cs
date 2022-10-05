@@ -1,10 +1,6 @@
-﻿
-/*********************************************
- * VOUS NE DEVEZ PAS MODIFIER CE FICHIER !!! *
- * *******************************************/
-
-namespace DeWPF
+﻿namespace DeWPF
 {
+    // Un objet de hasard
     public interface IObjetHasard
     {
         // L'objet a un nom
