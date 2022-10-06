@@ -1,4 +1,6 @@
-﻿namespace DeWPF
+﻿
+
+namespace DeWPF
 {
     // Une pièce de monnaie à deux faces
     internal class Piece : ObjetHasard
@@ -10,5 +12,7 @@
             Faces[0] = new Face(0, "pile");
             Faces[1] = new Face(0, "face");
         }
+        
+        
     }
 }
